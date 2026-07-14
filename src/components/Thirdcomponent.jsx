@@ -1,5 +1,7 @@
 import { useState } from "react";
-//hooks
+//hooks-provide a simpler and more readable approach for using state, context, refs, and other React features in functional components.
+//useState-allows to add and manage state (data) inside a functional component.The useState() hook lets you declare state variables in a functional component.
+
 const Thirdcomponent = () =>{
     //example of usestate hook usage
     const [number,setNumber] = useState(10)

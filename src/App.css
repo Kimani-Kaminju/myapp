@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.notfound{
+  font-size: 80px;
+  color: red;
+}
+nav{
+  background-color: gray;
+  padding: 15px;
+}
+.myLink{
+  padding: 10px;
+  background-color: green;
+  margin: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+.myLink:hover{
+  background-color: red;
+  
+}
